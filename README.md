@@ -1,4 +1,4 @@
-**Classification and Dimensionality Reduction on Image-Based Datasets Using Machine Learning**
+# Classification and Dimensionality Reduction on Image-Based Datasets Using Machine Learning
 
 **Project Overview**
 
