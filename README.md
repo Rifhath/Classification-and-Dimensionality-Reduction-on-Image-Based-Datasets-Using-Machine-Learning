@@ -1,4 +1,4 @@
-# Classification and Dimensionality Reduction on Image-Based Datasets Using Machine Learning
+# Dimensionality Reduction and Classification for Biomedical Image Analysis: Insights into Protein Expression and Cellular Imaging
 
 **Project Overview**
 
